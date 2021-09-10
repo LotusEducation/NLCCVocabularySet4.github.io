@@ -1,0 +1,164 @@
+<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+<style type="text/css">
+.thumbnail:hover {
+    position:relative;
+    top:0px;
+    left:10px;
+    width:300px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+.lst-kix_il9wn35s0ahe-5>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-5}ol.lst-kix_il9wn35s0ahe-2.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-2 0}ol.lst-kix_il9wn35s0ahe-7.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-7 0}ol.lst-kix_il9wn35s0ahe-0.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-0 0}ol.lst-kix_il9wn35s0ahe-2{list-style-type:none}ol.lst-kix_il9wn35s0ahe-1{list-style-type:none}ol.lst-kix_il9wn35s0ahe-4{list-style-type:none}ol.lst-kix_il9wn35s0ahe-3{list-style-type:none}.lst-kix_il9wn35s0ahe-7>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-7,lower-latin) ". "}.lst-kix_il9wn35s0ahe-2>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-2}ol.lst-kix_il9wn35s0ahe-0{list-style-type:none}.lst-kix_il9wn35s0ahe-8>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-8,lower-roman) ". "}.lst-kix_il9wn35s0ahe-7>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-7}ol.lst-kix_il9wn35s0ahe-4.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-4 0}.lst-kix_il9wn35s0ahe-4>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-4}ol.lst-kix_il9wn35s0ahe-6{list-style-type:none}.lst-kix_il9wn35s0ahe-1>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-1}ol.lst-kix_il9wn35s0ahe-5{list-style-type:none}ol.lst-kix_il9wn35s0ahe-8{list-style-type:none}ol.lst-kix_il9wn35s0ahe-7{list-style-type:none}ol.lst-kix_il9wn35s0ahe-6.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-6 0}.lst-kix_il9wn35s0ahe-8>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-8}ol.lst-kix_il9wn35s0ahe-1.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-1 0}ol.lst-kix_il9wn35s0ahe-3.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-3 0}ol.lst-kix_il9wn35s0ahe-8.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-8 0}li.li-bullet-0:before{margin-left:-18pt;white-space:nowrap;display:inline-block;min-width:18pt}.lst-kix_il9wn35s0ahe-0>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-0,decimal) ". "}.lst-kix_il9wn35s0ahe-1>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-1,lower-latin) ". "}.lst-kix_il9wn35s0ahe-3>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-3,decimal) ". "}ol.lst-kix_il9wn35s0ahe-5.start{counter-reset:lst-ctn-kix_il9wn35s0ahe-5 0}.lst-kix_il9wn35s0ahe-2>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-2,lower-roman) ". "}.lst-kix_il9wn35s0ahe-6>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-6,decimal) ". "}.lst-kix_il9wn35s0ahe-3>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-3}.lst-kix_il9wn35s0ahe-0>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-0}.lst-kix_il9wn35s0ahe-6>li{counter-increment:lst-ctn-kix_il9wn35s0ahe-6}.lst-kix_il9wn35s0ahe-5>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-5,lower-roman) ". "}.lst-kix_il9wn35s0ahe-4>li:before{content:"" counter(lst-ctn-kix_il9wn35s0ahe-4,lower-latin) ". "}ol{margin:0;padding:0}table td,table th{padding:0}.c11{-webkit-text-decoration-skip:none;color:#000000;font-weight:400;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:14pt;font-family:"Arial";font-style:normal}.c1{margin-left:36pt;padding-top:0pt;padding-left:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c10{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}.c4{margin-left:36pt;padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c2{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-family:"Arial";font-style:normal}.c13{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center}.c8{font-weight:400;text-decoration:none;vertical-align:baseline;font-family:"Arial";font-style:normal}.c12{text-decoration-skip-ink:none;font-size:14pt;-webkit-text-decoration-skip:none;text-decoration:underline}.c14{background-color:#ffffff;max-width:566.5pt;padding:14.4pt 14.4pt 14.4pt 14.4pt}.c3{padding:0;margin:0}.c6{color:#1155cc;font-size:14pt}.c5{color:#38761d;font-size:10pt}.c0{font-size:12pt}.c9{font-size:10pt}.c7{font-size:11pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head>
+<body class="c14"><p class="c13"><span class="c12">NLCC Vocabulary Set 4</span></p>
+<p class="c10"><span class="c2 c0"></span></p>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0 start" start="1"><li class="c1 li-bullet-0">
+        <span class="c6">哪裡</span>
+        <span class="c5">nǎlǐ ㄋㄚˇ ㄌㄧˇ</span></li></ol>
+        <p class="c4"><span class="c2 c0">N: where 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1DQlyymXY50bbO7CWLxKXelfA6hPBusW6" title="哪裡" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="2"><li class="c1 li-bullet-0">
+        <span class="c6">呢</span><span class="c0">&nbsp;</span>
+        <span class="c5">ne ㄋㄜ˙</span></li></ol>
+        <p class="c4"><span class="c0">Ptc: ? (What about…?)</span><span class="c2 c9"> 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1d6S-Z3x3lqqjCu9XwLVqSJqrGE-JSJuK" title="呢" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="3"><li class="c1 li-bullet-0">
+        <span class="c6">認識</span>
+        <span class="c5">rèn shi ㄖㄣˋㄕ˙</span></li></ol>
+        <p class="c4"><span class="c2 c0">V: to know; meet/get acquainted with sb 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1B_cgaWbC4yEZ0V_JUkZ46PTpneEiAeog" title="認識" class="thumbnail" class="rounded" height="75" width="75" />
+        <img src="https://drive.google.com/uc?export=view&id=1eoNU4rmQtz-SOS1W0cCWQXEF_icaaQlJ" title="認識" class="thumbnail" class="rounded" height="75" width="75" />
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="4"><li class="c1 li-bullet-0">
+        <span class="c6">中文</span>
+        <span class="c5">zhōng  wén ㄓㄨㄥ ㄨㄣˊ</span></li></ol>
+        <p class="c4"><span class="c2 c0">N: Chinese (language) 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1L87OWUi-fhPyzgdBPi2AEHbF0JAGZDNn" title="中文" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="5"><li class="c1 li-bullet-0">
+        <span class="c6">不</span>
+        <span class="c5">bù ㄅㄨˋ </span></li></ol>
+        <p class="c4"><span class="c2 c0">Adv: not 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1U0Vcv2-xis4btrGrYDn1cILrbKWKvovW" title="不" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="6"><li class="c1 li-bullet-0">
+        <span class="c6">很</span>
+        <span class="c5">hěn ㄏㄣˇ</span></li></ol>
+        <p class="c4"><span class="c2 c0">Adv: very; very much 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=11run4TbPhGa07CTs2d6UkcOKijaTpKvg" title="很" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="7"><li class="c1 li-bullet-0">
+        <span class="c6">高興</span>
+        <span class="c5">gāo xìng ㄍㄠ ㄒㄧㄥˋ</span></li></ol>
+        <p class="c4"><span class="c2 c0">Adj: happy; glad 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1sv_WeXKjMqz5lUlHPx8-DnTznovFWwhF" title="高興" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="8"><li class="c1 li-bullet-0">
+        <span class="c6">早安</span>
+        <span class="c5">zǎo ān ㄗㄠˇ ㄢ</span></li></ol>
+        <p class="c4"><span class="c2 c0">Good morning 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=15N9NuAErfC2yyuTeCiBMXWEMwI3-T09-" title="早安" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="9"><li class="c1 li-bullet-0">
+        <span class="c6">午安</span>
+        <span class="c5">wǔ ān ㄨˇ ㄢ</span></li></ol>
+        <p class="c4"><span class="c2 c0">Good afternoon 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1HMQnEPEbGhmAYUvWG8GlpJ9kd6L9DeNt" title="午安" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="10"><li class="c1 li-bullet-0">
+        <span class="c6">晚安</span>
+        <span class="c5">wǎn ān ㄨㄢˇ ㄢ</span></li></ol>
+        <p class="c4"><span class="c2 c0">Good night/Good evening (farewell/greeting) 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=15_7Ya54mgZW80LemmFydPU2BX5e2IzeR" title="晚安" class="thumbnail" class="rounded" height="75" width="75" /> 
+        <img src="https://drive.google.com/uc?export=view&id=1THc7p7EP5kN1JqbOGn_XeTDvYu4oNTgn" title="晚安" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="11"><li class="c1 li-bullet-0">
+        <span class="c6">很高興認識你</span>
+        <span class="c5">hěn gāoxìng rènshi nǐ ㄏㄣˇ ㄍㄠ ㄒㄧㄥˋ ㄖㄣˋ ㄕ˙ ㄋㄧˇ</span></li></ol>
+        <p class="c4"><span class="c2 c0">Nice to meet you 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1v-sqw0DKEJWTQlqJyWKp0RmCJO9NpGap" title="很高興認識你" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p>    
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="12"><li class="c1 li-bullet-0">
+        <span class="c6">再見</span>
+        <span class="c5">zàijiàn ㄗㄞˋ ㄐㄧㄢˋ</span></li></ol>
+        <p class="c4"><span class="c2 c0">Goodbye (literally: meet again) 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=1F9p_-TVOJFFwdCKxO0G8j9RkhMGVN0Ni" title="再見" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p> 
+<br>
+    <ol class="c3 lst-kix_il9wn35s0ahe-0" start="13"><li class="c1 li-bullet-0">
+        <span class="c6">謝謝</span>
+        <span class="c5">xièxie ㄒㄧㄝˋ ㄒㄧㄝ˙</span></li></ol>
+        <p class="c4"><span class="c2 c0">Thank you 
+        <br>
+        <img src="https://drive.google.com/uc?export=view&id=159Gewh9kv1xrhRIFQs1-M8AAlbDne136" title="謝謝" class="thumbnail" class="rounded" height="75" width="75" /> 
+</span></p> a
+<br>
+<p class="c4"><span class="c0 c2">
+    Test Yourself!<br>
+    <img src="https://drive.google.com/uc?export=view&id=1DQlyymXY50bbO7CWLxKXelfA6hPBusW6" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1HMQnEPEbGhmAYUvWG8GlpJ9kd6L9DeNt" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1L87OWUi-fhPyzgdBPi2AEHbF0JAGZDNn" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1d6S-Z3x3lqqjCu9XwLVqSJqrGE-JSJuK" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=15N9NuAErfC2yyuTeCiBMXWEMwI3-T09-" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=11run4TbPhGa07CTs2d6UkcOKijaTpKvg" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1v-sqw0DKEJWTQlqJyWKp0RmCJO9NpGap" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=159Gewh9kv1xrhRIFQs1-M8AAlbDne136" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1eoNU4rmQtz-SOS1W0cCWQXEF_icaaQlJ" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1U0Vcv2-xis4btrGrYDn1cILrbKWKvovW" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1sv_WeXKjMqz5lUlHPx8-DnTznovFWwhF" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=1F9p_-TVOJFFwdCKxO0G8j9RkhMGVN0Ni" class="thumbnail" class="rounded" height="75" width="75" /> 
+    <br>
+    <br>
+    <img src="https://drive.google.com/uc?export=view&id=15_7Ya54mgZW80LemmFydPU2BX5e2IzeR" class="thumbnail" class="rounded" height="75" width="75" /> 
+
+<br><br>
+</span></p>
+</body></html>
